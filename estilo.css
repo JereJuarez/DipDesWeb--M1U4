@@ -1,0 +1,41 @@
+#titulo{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    background-color: black;
+}
+
+#carrera{
+    text-align: center;
+    font-size: 27px;
+    color: white;
+    background-color: rgb(4, 70, 4);
+}
+
+#mifoto{
+    text-align: center;
+}
+
+h3{
+    font-family: Arial;
+    text-decoration: underline;
+    font-size: 27px;
+}
+
+ul{
+    font-family: Verdana;
+    font-size: 20px;
+}
+
+p{
+    font-size: 28px;
+    background-color: rgb(0, 0, 0);
+    color:rgb(255, 255, 255)
+}
+
+#c{
+    background-color: rgb(4, 70, 4);
+    color: white;
+    font-size: 22px;
+}
+
